@@ -13,7 +13,7 @@
 .container{
   width: 80%;
   margin: auto;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }   
 
 /* HEADER */
@@ -32,7 +32,7 @@
 /* main */
 
 main{
-  height: 700px;
+  height: 600px;
   background-color: lightskyblue;
 }
 
@@ -68,6 +68,6 @@ main .widgets{
 footer{
   width: 80%;
   margin: auto;
-  height: 80px;
-  background-color: peru;
+  height: 60px;
+  background-color: rgb(231, 142, 68);
 }
