@@ -10,10 +10,10 @@
   clear: both;
 }
 
-
 .container{
   width: 80%;
   margin: auto;
+  margin-bottom: 30px;
 }   
 
 /* HEADER */
@@ -27,7 +27,6 @@
 .underlogo{
   height: 400px;
   background-color: lightcoral;
-  margin-bottom: 30px;
 }
 
 /* main */
@@ -35,7 +34,6 @@
 main{
   height: 700px;
   background-color: lightskyblue;
-  margin-bottom: 40px;
 }
 
 .head{
@@ -68,6 +66,8 @@ main .widgets{
 
 /* FOOTER */
 footer{
+  width: 80%;
+  margin: auto;
   height: 80px;
   background-color: peru;
 }
